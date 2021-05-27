@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lz6r9iTnU4B1BiQbDpcx5pLV9DgF/inDI15C9gX33vGtjjSCKZxv2kjYayu31AzJnw3ktr7ZKQHESjiIemn2fA==",
+  "success": true,
+  "projectFilePath": "D:\\Projeto\\Hudson\\Authenticator\\src\\Hudson.Authenticator.Api\\Hudson.Authenticator.Infra\\Hudson.Authenticator.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}

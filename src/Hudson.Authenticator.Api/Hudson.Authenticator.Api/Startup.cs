@@ -16,7 +16,7 @@ namespace Hudson.Authenticator.Api
 
         public IConfiguration Configuration { get; }
 
-     public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection services)
         {
 
             services.AddControllers();
@@ -26,7 +26,7 @@ namespace Hudson.Authenticator.Api
             });
         }
 
-      public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             if (env.IsDevelopment())
             {
