@@ -7,6 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Api", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Api", "1-Api", "{D2AE7814-AEC6-4D2C-9445-EABB2D96A203}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{53C672BE-D454-422A-BA6F-531599003F1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Common", "3-Common", "{AC76787E-B0F7-411E-95CF-F118CC75AC7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Test", "4-Test", "{29979FA7-E1F8-4ED0-A491-E3FB4EB75131}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Atuthenticator.Domain", "Hudson.Atuthenticator.Domain\Hudson.Atuthenticator.Domain.csproj", "{7B8C563C-086E-4A57-A74E-2EBACCE279A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +25,17 @@ Global
 		{D656E094-1387-42A2-94B4-A3B547DC258F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D656E094-1387-42A2-94B4-A3B547DC258F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D656E094-1387-42A2-94B4-A3B547DC258F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B8C563C-086E-4A57-A74E-2EBACCE279A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B8C563C-086E-4A57-A74E-2EBACCE279A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B8C563C-086E-4A57-A74E-2EBACCE279A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B8C563C-086E-4A57-A74E-2EBACCE279A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D656E094-1387-42A2-94B4-A3B547DC258F} = {D2AE7814-AEC6-4D2C-9445-EABB2D96A203}
+		{7B8C563C-086E-4A57-A74E-2EBACCE279A5} = {53C672BE-D454-422A-BA6F-531599003F1A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A860319-4374-4CA3-ACFD-C172DDBE98B2}
