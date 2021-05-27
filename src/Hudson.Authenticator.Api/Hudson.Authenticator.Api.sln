@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Api", "Hudson.Authenticator.Api\Hudson.Authenticator.Api.csproj", "{D656E094-1387-42A2-94B4-A3B547DC258F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Api", "1-Api", "{D2AE7814-AEC6-4D2C-9445-EABB2D96A203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D656E094-1387-42A2-94B4-A3B547DC258F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D656E094-1387-42A2-94B4-A3B547DC258F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D656E094-1387-42A2-94B4-A3B547DC258F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D656E094-1387-42A2-94B4-A3B547DC258F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D656E094-1387-42A2-94B4-A3B547DC258F} = {D2AE7814-AEC6-4D2C-9445-EABB2D96A203}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A860319-4374-4CA3-ACFD-C172DDBE98B2}
+	EndGlobalSection
+EndGlobal
