@@ -1,4 +1,4 @@
-﻿namespace Hudson.Authenticator.Infra.Contracts
+﻿namespace RND.IB.Autenticacao.Infra.Comum.Contracts
 {
     public interface ICommandDefault
     {
