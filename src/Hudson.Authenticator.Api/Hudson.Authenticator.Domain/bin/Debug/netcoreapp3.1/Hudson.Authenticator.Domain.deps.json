@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hudson.Authenticator.Domain/1.0.0": {
+        "runtime": {
+          "Hudson.Authenticator.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hudson.Authenticator.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "gk9lzyx+nNIW8prFzoCvO8omgpTSvRjyen8MLBduqp9DvgxDIMI6zG65aHIefeC7XXnmM/w00ImkvVADyRYyog==",
+  "success": true,
+  "projectFilePath": "D:\\Projeto\\Hudson\\Authenticator\\src\\Hudson.Authenticator.Api\\Hudson.Authenticator.Infra.Identity\\Hudson.Authenticator.Infra.Identity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\Hudson\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Hudson\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Hudson\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\Hudson\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hudson\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hudson\\.nuget\\packages",
+      "D:\\Program Files (x86)\\DevExpress 20.2\\.NET Core Desktop Libraries\\Offline Packages"
+    ]
+  }
+}
