@@ -5,13 +5,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Commands\Input\" />
-    <Folder Include="Commands\Output\" />
-    <Folder Include="Entities\" />
     <Folder Include="Handlers\" />
     <Folder Include="Queries\" />
     <Folder Include="Repositories\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Flunt" Version="2.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hudson.Authenticator.Infra\Hudson.Authenticator.Infra.csproj" />
   </ItemGroup>
 
 </Project>

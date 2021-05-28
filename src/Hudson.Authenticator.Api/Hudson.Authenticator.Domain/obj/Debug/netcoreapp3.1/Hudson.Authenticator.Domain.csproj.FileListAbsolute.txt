@@ -7,3 +7,6 @@ D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticato
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Domain\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Domain.dll
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Domain\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Domain.pdb
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Domain\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Domain.csprojAssemblyReference.cache
+D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Domain\bin\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.dll
+D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Domain\bin\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.pdb
+D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Domain\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Domain.csproj.CopyComplete

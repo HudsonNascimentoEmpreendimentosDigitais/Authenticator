@@ -1,7 +1,6 @@
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Infra.Data\bin\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.Data.deps.json
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Infra.Data\bin\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.Data.dll
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Infra.Data\bin\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.Data.pdb
-D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Infra.Data\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.Data.csprojAssemblyReference.cache
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Infra.Data\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.Data.AssemblyInfoInputs.cache
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Infra.Data\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.Data.AssemblyInfo.cs
 D:\Projeto\Hudson\Authenticator\src\Hudson.Authenticator.Api\Hudson.Authenticator.Infra.Data\obj\Debug\netcoreapp3.1\Hudson.Authenticator.Infra.Data.csproj.CoreCompileInputs.cache

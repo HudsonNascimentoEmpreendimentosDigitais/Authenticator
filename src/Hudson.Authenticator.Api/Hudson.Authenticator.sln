@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Api", "Hudson.Authenticator.Api\Hudson.Authenticator.Api.csproj", "{D656E094-1387-42A2-94B4-A3B547DC258F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{63C755AE-2590-4D2F-8D89-1621D5421B3C} = {63C755AE-2590-4D2F-8D89-1621D5421B3C}
+		{2204CFF4-794E-4EBA-BD5C-B2380B7E756E} = {2204CFF4-794E-4EBA-BD5C-B2380B7E756E}
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Api", "1-Api", "{D2AE7814-AEC6-4D2C-9445-EABB2D96A203}"
 EndProject
@@ -16,6 +20,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{3A52A238-25D2-4070-A6E9-7B0B1BD42E89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Domain", "Hudson.Authenticator.Domain\Hudson.Authenticator.Domain.csproj", "{443E2FD9-2810-41A7-B539-7F7B8F59F3A1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AEBE6745-8787-483E-BD41-9CBCC5D9DF66} = {AEBE6745-8787-483E-BD41-9CBCC5D9DF66}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Infra", "Hudson.Authenticator.Infra\Hudson.Authenticator.Infra.csproj", "{AEBE6745-8787-483E-BD41-9CBCC5D9DF66}"
 EndProject
@@ -24,10 +31,22 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit", "Unit", "{9298DA4C-179C-47A2-94BE-98CF06E7E86B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Infra.Data", "Hudson.Authenticator.Infra.Data\Hudson.Authenticator.Infra.Data.csproj", "{63C755AE-2590-4D2F-8D89-1621D5421B3C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{443E2FD9-2810-41A7-B539-7F7B8F59F3A1} = {443E2FD9-2810-41A7-B539-7F7B8F59F3A1}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Infra.Identity", "Hudson.Authenticator.Infra.Identity\Hudson.Authenticator.Infra.Identity.csproj", "{4C734A4A-7586-47FD-888D-6C85A3E82EAD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{63C755AE-2590-4D2F-8D89-1621D5421B3C} = {63C755AE-2590-4D2F-8D89-1621D5421B3C}
+		{443E2FD9-2810-41A7-B539-7F7B8F59F3A1} = {443E2FD9-2810-41A7-B539-7F7B8F59F3A1}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hudson.Authenticator.Ioc", "Hudson.Authenticator.Ioc\Hudson.Authenticator.Ioc.csproj", "{2204CFF4-794E-4EBA-BD5C-B2380B7E756E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4C734A4A-7586-47FD-888D-6C85A3E82EAD} = {4C734A4A-7586-47FD-888D-6C85A3E82EAD}
+		{63C755AE-2590-4D2F-8D89-1621D5421B3C} = {63C755AE-2590-4D2F-8D89-1621D5421B3C}
+		{443E2FD9-2810-41A7-B539-7F7B8F59F3A1} = {443E2FD9-2810-41A7-B539-7F7B8F59F3A1}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
