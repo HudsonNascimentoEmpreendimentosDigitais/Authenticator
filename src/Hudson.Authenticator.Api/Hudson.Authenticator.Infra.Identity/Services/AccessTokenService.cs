@@ -22,7 +22,7 @@ namespace Hudson.Authenticator.Infra.Identity.Services
         {
             get { return GetClaim("SessionId"); }
         }
-     
+
         public virtual ClaimsIdentity ClaimsIdentityToken
         {
             get
@@ -45,6 +45,6 @@ namespace Hudson.Authenticator.Infra.Identity.Services
             return _accessor.HttpContext.User.Identity.IsAuthenticated ?
                 (ClaimsIdentity)_accessor.HttpContext.User.Identity : null;
         }
-    
+
     }
 }
